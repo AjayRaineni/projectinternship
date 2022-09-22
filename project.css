@@ -1,0 +1,53 @@
+.logo1 {
+  padding-left: 300px;
+  padding-top: 50px;
+}
+
+nav img {
+  background: #3b4628;
+}
+
+#img1 {
+  width: 50%;
+  height: 50%;
+}
+#first {
+  margin-left: 60px;
+  margin-right: 60px;
+}
+.navtext {
+  margin-top: 70px;
+  font-size: 20px;
+}
+#registere {
+  margin-top: 40px;
+  margin-left: 38%;
+}
+
+.flex {
+  display: flex;
+  flex-direction: row;
+}
+
+.src1 {
+  padding-top: 50px;
+  padding-bottom: 1 0px;
+}
+#reason {
+  display: flex;
+  flex-direction: row;
+}
+#form {
+  height: 50vh;
+}
+.form123 {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+#footer {
+  background: #3b4628;
+}
+#back {
+  padding-top: 20vh;
+  padding-bottom: 20vh;
+}
